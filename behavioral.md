@@ -13,20 +13,11 @@
         - Learn about evaluation metrics of the algo / pros and cons
         - combine to develop understanding of entire model building process
 
-2. Why Shure?
+2. Why BHG?
 
-- First heard about this opportunity through Northwestern's career fair
-- I enjoy listening to music -> always in search of audio system that can provide better experience -> shure was an obvious choice
-    - Love shure because it is still innovating and finding new ways to improve products using non-traditional tools like data science.
-- As DS, intrigued by different ways data can be used in non-traditional setting.
-        - Companies like Google / Amazon, natural to expect lots of data and high demand for data scientists to make sense of data
-        - Most people woould not expect company like shure to employ teams of data scientists.
-    - Amount of available data shure has and endless number of insights that I can draw from it excites me
-    - which is why i decided to apply to shure as DS intern
-        - Want to analyze data from audio electronics to continuously improve the experience of Shure's products and make a lasting impact in the product development process. 
-        - I enjoy being a part of new technologies and trying out innovative solutions, and I believe working at Shure will allow me to employ these new technologies and solutions to help build actionable solutions.
-
-
+During my academic career, I have developed an appreciation for the tremendous value of data. There are many parameters, parameters that you have never even dreamed of, that the data can tell you about a situation. The amount of available data that BHG has and the endless number of insights I can draw from it excites me. Having had extensive experience in data analytics, including a project where my team and I analyzed
+point of sales data from Dillard's stores, my expertise in SQL, Python, and data analysis will enable me to draw
+insights from data as well as build novel solutions with the latest machine learning techniques. I enjoy being a part of new technologies and trying out innovative solutions, and I believe working at BHG will allow me to employ these new technologies building actionable solutions to help BHG make better and more data driven business decisions, such as whether or not to give someone a loan.
 
 
 
@@ -74,8 +65,8 @@
 
 5. What do you hope to gain from this experience?
 
-- Interested in applying machine learning techniques to non-tech fields such as audio electronics
-    - Want to deepen my experience in prototyping and realizing novel use cases of machine learning and AI.
+- Interested in applying machine learning techniques to non-tech fields such as finance
+    - Want to deepen my experience working through the full data lifecycle, including gathering, joining, cleaning, modeling, etc.
     - enjoy being a part of new technologies and trying out innovative solutions, 
     - I want to use those technologies and solutions to help build actionable solutions.
 - I also want to learn what it is like using technologies like Python, TensorFlow, OpenCV, SQL in a business setting
@@ -105,7 +96,7 @@
 
 
 
-1. 
+1. Most exciting thing in tech and how it applies to company
 
 - One of the most exciting tech is IoT and predictions using it. (combination of IoT and AI)
     - actually related to one of my projects, where we gather data from a network of divvy bikes stations and predict the number of trips at each station in the next hour. There is a whole pipeline to the data streaming, storage, and model deployment
@@ -114,7 +105,7 @@
         - In a studio, you would have mic, amp, sound mixers, speakers, etc
         - By using IoT and AI, you could connect all of these devices, which allows data sharing between them. For instance, if you adjust the tone of the audio in the studio, that adjustment data can be fed into a prediction system to predict how other equipment should be adjusted to match the specs in order to produce the best results.
 
-2. 
+2. Project and difficulty
 
 - One of my projects is my startup FitX
     - Combine fitness and AI
@@ -128,13 +119,13 @@
     - It was very difficult to find videos of people filming straight on with at least decent lighting or video quality.
     - This significantly slowed the tolerance range computation, and my team and I are working on a new algorithm that uses the pattern of the movement of keypoints to determine if an exercise is done correctly. I can't go into detail because we are filing a patent, but it is quite exciting!
 
-3. 
+3. Tech stack
 
 - Extensively use Python and its libraries like Pandas, Numpy, Scikit Learn, Pytorch to do data analysis, data viz, machine learning, and computer vision related work. Very comfortable with using the above libraries. I also use R to do statistical analysis. 
 
 - I use SQL extensively in my projects because of the large datasets; I have them stored on a remote PostGreSQL server, and access it when I need.
 
-4. 
+4. 3 things in a ML project
 
 - Domain knowledge
     - Needed to understand the overarching question of why
